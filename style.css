@@ -25,7 +25,9 @@ img{
     height: 200px;
     border: 1px solid;
 }
-table, td{
+table, td, th{
     margin: auto;
     border: 1px solid;
+    padding: 10px;
+    border-collapse: collapse;
 }
